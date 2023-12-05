@@ -11,8 +11,8 @@
 </div>
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MerlimTermoglou&bg_color=2220c6&color=2220c6&line=556b2f&point=193e19&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <div style="display: inline_block"><br>
-  <img align="center" alt="Merlim-C" height="30" width="40" src="https://github.com/fallsmeii/fallsmeii/assets/149728744/cbce9637-6dd4-4545-b25d-e8c4af47288b">
-  <img align="center" alt="Merlim-Php" height="30" width="40" src="https://github.com/fallsmeii/fallsmeii/assets/149728744/1f61d64b-c818-4686-9778-689945a6a97d">
+  <img align="center" alt="Merlim-C" height="30" width="40" src="https://github.com/MerlimTermoglou/MerlimTermoglou/assets/149728744/cbce9637-6dd4-4545-b25d-e8c4af47288b">
+  <img align="center" alt="Merlim-Php" height="30" width="40" src="https://github.com/MerlimTermoglou/MerlimTermoglou/assets/149728744/1f61d64b-c818-4686-9778-689945a6a97d">
   
 ##
 <a href = "dumay.dids@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=purple" target="_blank"></a>
